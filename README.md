@@ -15,7 +15,7 @@
 
 - Turning ideas into web apps | Clean UI & scalable backend | Real-world project building **MERN Stack | React | Node.js | Express.js | MongoDB | Tailwind | shadcn/ui**
 
-- - 📧 Email: kumarankur5956@gmail.com - 💻 GitHub: github.com/devankur01 **kumarankur5956@gmail.com**
+- - 📧 Email: kumarankur5956@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
